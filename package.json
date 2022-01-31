@@ -1,0 +1,23 @@
+{
+  "name": "nfl-teams-ck",
+  "version": "1.0.0",
+  "description": "<!-- The following is an example of how to create a firebase data structure that is securely conneced and credetialed with the local users device.  We resource .json files with NFl teams to create our collections. -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianJWKlein/nfl-teams-ck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristianJWKlein/nfl-teams-ck/issues"
+  },
+  "homepage": "https://github.com/ChristianJWKlein/nfl-teams-ck#readme",
+  "dependencies": {
+    "firebase-admin": "^10.0.2"
+  }
+}
